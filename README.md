@@ -1,6 +1,7 @@
 # Shopbridge_Context
 
 **Project git repository**
+
 We can find the complete code on git under development branch, please refer the git url https://github.com/sushant76/Shopbridge_Context Feel free to reach on the contact details provided in signature if any issues while accessing git repository. Code is updated under different directories as below:
 
 1.Backend = Contains the backend(asp.net web api) code.
