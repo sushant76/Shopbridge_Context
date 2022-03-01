@@ -5,6 +5,7 @@
 We can find the complete code on git under development branch, please refer the git url https://github.com/sushant76/Shopbridge_Context Feel free to reach on the contact details provided in signature if any issues while accessing git repository. Code is updated under different directories as below:
 
 1.Backend = Contains the backend(asp.net web api) code.
+
 2.DB = Contains the DB backup file(.bak) to restore DB on your environment.
 
 Steps to execute the backend solution for Product module to be used by Product Admin -:
