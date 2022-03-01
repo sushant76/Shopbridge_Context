@@ -17,3 +17,7 @@ Steps to execute the backend solution for Product module to be used by Product A
 5. Run the project.
 
 
+
+Screenshots are added under Screenshots folder.
+
+
