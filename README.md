@@ -9,8 +9,8 @@ We can find the complete code on git under development branch, please refer the 
 
 Steps to execute the backend solution for Product module to be used by Product Admin -:
 
-1. Restore database using backup file provided in DB folder.
-2.  Unzip the rar file of this project to a location in your disk.
+1. Unzip the rar file of this project to a location in your disk.
+2. Restore database using backup file provided in DB folder. 
 3. Load shopbridge_base solution i.e. backend application in visual studio from the \shopbridge_base folder.
 4. Change the connection string in the appsettings.json file that points to your SQL Server(if needed, server name is (localdb)\MSSQLLocalDB) 
 5. Run the project.
